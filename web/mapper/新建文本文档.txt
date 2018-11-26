@@ -1,3 +1,0 @@
-    <insert id="insertAdmin" parameterType="Admin">
-        INSERT into admin (id,pwd) VALUES (#{id},#{pwd})
-    </insert>
